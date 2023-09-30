@@ -1,9 +1,11 @@
-# CISM-practice-Exam
-#CISM Dumps
+# CISM-practice-Exam with moneyback gurantee
+# CISM Dumps
+# These Questions very helped me in clearing my exam
 Get CISM practice **Exam questions** with Expalaination. More than **1100** up to date question.
 
-you can get **DISCOUNT** by using **below link** for the month of **OCT/NOV**. **LIMITED TIME** only
-//
+I just found its offering discount. you can get **DISCOUNT** by using below link.
+
+https://www.udemy.com/course/information-security-manager-practice-exam-/?couponCode=SEPTDISC
 
 This Course is Designed for Aspirants who are attempting **Certified Information Security Manager (CISM) Exam**. These Exam questions will be really helpful to you to better understand the Exam. These are Extracted from Actual Certified Information Security Manager **(CISM) exam dumps**.With the CISM exam, you can be well-prepared for the real deal. You can identify weak areas of IT security and strengthen them. Use these **CISM** exam questions to gauge your ability to weed out loopholes in a company’s IT architecture and protect the company’s infrastructure against threats. The **CISM practice test** can be taken multiple times.Many Questions are answered with Explanations for your better understanding.
 
